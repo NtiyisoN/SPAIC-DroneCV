@@ -1,5 +1,8 @@
-# SPAIC-DroneCV
 "Follow Me Drone" project for Secure and Private AI Challenge (robotics, computer vision, deep learning)
+
+# SPAIC-DroneCV
+How can you use a drone to track objects or people and what would be the use case for this implementation?
+Throughout the weeks the team of the Drone Tracking study group have researched use cases, implemented tutorials and tried to find information how to integrate federated learning and differential privacy with a drone.
 
 ### Use Case
 Object tracking with a drone of a person with epilepsy. The drone will track the person and detect seizures.
