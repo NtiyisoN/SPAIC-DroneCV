@@ -1,4 +1,4 @@
-##Videos from our Drone
+## Video from our Drone
 
 **Object detection and tracking**
 
