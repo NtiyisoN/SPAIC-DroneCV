@@ -22,6 +22,7 @@ This rescue drone could also be used from shore. It could work as an additional 
 We have demonstrated the tracking of people (superheroes) in water through these YouTube videos with real drone footage:
 - [Drone tracking a small ship](https://www.youtube.com/watch?v=jDfStGdL60I&feature=youtu.be)
 - [Drone tracking a ship and people (superheroes) overboard](https://www.youtube.com/watch?v=TN6UGnpygcQ&feature=youtu.be)
+- (No superheroes were harmed in the making of these videos)
 
 The object tracking is implemented in PyTorch and the code can be found [here](https://github.com/jess-s/SPAIC-DroneCV/tree/master/PyTorch_Objecttracking)
 
