@@ -6,7 +6,13 @@
 How can you use a drone to track objects or people and what would be the use case for this implementation?
 Throughout the weeks the team of the Drone Tracking study group have researched use cases, implemented tutorials and tried to find information how to integrate federated learning and differential privacy with a drone.
 
-### INSERT ACCOMPLISHMENTS OF TEAM- WHAT WERE WE ABLE TO DO?
+### Key Accomplishments
+
+* Object tracking with OpenCV
+* Colour tracking
+* Object tracking with PyTorch
+* Added code to a drone for object detection
+* Authored articles & tutorials for Computer Vision with Drones
 
 ### Use Case
 Our team considered many possible use cases for a drone that could follow a target, which are discussed in the wiki page "Use Cases" within this github repo.  Initially, we considered the safety benefits of a drone following a person with a health condition such as epilepsy, dementia, or a serious heart condition as they move through public space.  We also considered the benefits for atheletes to have a drone follow them as they train, possibly recording data about the route, pace, terrain, and performance to develop personalize training programs.  But, ultimately, we decided to focus on the use case of Rescue at Sea because it holds great potential for positive impact.
