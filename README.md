@@ -1,5 +1,7 @@
 "Follow Me Drone" project for Secure and Private AI Challenge (robotics, computer vision, deep learning)
 
+![](https://github.com/jess-s/SPAIC-DroneCV/blob/master/images/20190818_134626(1).jpg)
+
 # SPAIC-DroneCV
 How can you use a drone to track objects or people and what would be the use case for this implementation?
 Throughout the weeks the team of the Drone Tracking study group have researched use cases, implemented tutorials and tried to find information how to integrate federated learning and differential privacy with a drone.
