@@ -1,4 +1,4 @@
-"Follow Me Drone" project for Secure and Private AI Challenge (robotics, computer vision, deep learning)
+### DroneCV Project for Secure and Private AI Challenge (robotics, computer vision, deep learning)
 
 ![](https://github.com/jess-s/SPAIC-DroneCV/blob/master/images/20190818_134626(1).jpg)
 
