@@ -1,4 +1,6 @@
-Videos: Drone with camera --> object detection and tracking
+##Videos from our Drone
+
+**Object detection and tracking**
 
 [Drone Tracking a Small Ship](https://youtu.be/jDfStGdL60I)
 
