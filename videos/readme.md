@@ -1,4 +1,4 @@
-## Video from our Drone
+## Real-time Computer Vision from our Drone
 
 **Object detection and tracking**
 
