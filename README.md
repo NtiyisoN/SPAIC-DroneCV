@@ -16,14 +16,14 @@ Our team has unique insight into this dangerous situation...
 During research after selecting this use case, we discovered that it had  been selected as an AI for Social Good Workshop at neurIPS in 2018.  There is a link to the paper on which the workshop was selected in the wiki page "Resources"
 
 ### Team Members
-- Jess (@Jess) - https://github.com/jess-s
-- Helena Barmer (@Helena Barmer) - https://github.com/helenabarmer
-- Mahak Bansal (@Mahak Bansal) - https://github.com/mahakbansal
-- Shashi Gharti (@Shashi Gharti) - https://github.com/shashigharti
-- Arunn Thevapalan (@Arunn) - https://github.com/arunn-thevapalan
-- Pinku Deb Nath (@prantoran) - https://github.com/prantoran
-- Shashank Jain (@Shashank Jain) - https://github.com/Shashankjain12
-- Nancy Al Aswad (@Nancy Al Aswad) - https://github.com/nancyalaswad90
+- [Jess](https://github.com/jess-s) (@Jess) 
+- [Helena Barmer](https://github.com/helenabarmer) (@Helena Barmer) 
+- [Mahak Bansal](https://github.com/mahakbansal) (@Mahak Bansal) 
+- [Shashi Gharti](https://github.com/shashigharti) (@Shashi Gharti) 
+- [Arunn Thevapalan](https://github.com/arunn-thevapalan) (@Arunn) 
+- [Pinku Deb Nath](https://github.com/prantoran) (@prantoran) 
+- [Shashank Jain](https://github.com/Shashankjain12) (@Shashank Jain) 
+
 
 ### Wiki pages
 
