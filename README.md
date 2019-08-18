@@ -13,15 +13,17 @@ Our team considered many possible use cases for a drone that could follow a targ
 
 Our team has unique insight into this dangerous situation... 
 
-### RESCUE DRONE AT SEA
+### RESCUE DRONE AT SEA - HELENAS STORY
 Having worked at sea as a mechanic for the first part of my professional life I have been trained in safety at sea. 
 When we started working with our DroneCV project we thought of different use cases for a drone that could track people or an object. One of the use cases were:
 “A drone could be helpful to follow and localize people at sea. A drone connected to a ship or sailboat could be helpful in case of emergency and keep track of people falling overboard or/and detect them if the ship sinks.”
 If ships had rescue drones onboard these could be used in case of man overboard. Even a calm day with almost no waves it is very hard to detect someone that has fallen overboard from a ship. If someone fell overboard a rescue drone could be sent out to track that person in the water and function as a beacon for the rescue crew. It could also drop a life west or a float for the person in the water. 
 This rescue drone could also be used from shore. It could work as an additional help for life guards along the beaches.
 We have demonstrated the tracking of people (superheroes) in water through these YouTube videos with real drone footage:
-[Drone tracking a small ship](https://www.youtube.com/watch?v=jDfStGdL60I&feature=youtu.be)
-[Drone tracking a ship and people (superheroes) overboard](https://www.youtube.com/watch?v=TN6UGnpygcQ&feature=youtu.be)
+- [Drone tracking a small ship](https://www.youtube.com/watch?v=jDfStGdL60I&feature=youtu.be)
+- [Drone tracking a ship and people (superheroes) overboard](https://www.youtube.com/watch?v=TN6UGnpygcQ&feature=youtu.be)
+
+The object tracking is implemented in PyTorch and the code can be found [here](https://github.com/jess-s/SPAIC-DroneCV/tree/master/PyTorch_Objecttracking)
 
 During research after selecting this use case, we discovered that it had  been selected as an AI for Social Good Workshop at neurIPS in 2018.  There is a link to the paper on which the workshop was selected in the wiki page "Resources"
 
