@@ -1,6 +1,6 @@
 ### DroneCV Project for Secure and Private AI Challenge (robotics, computer vision, deep learning)
 
-![](https://github.com/jess-s/SPAIC-DroneCV/blob/master/images/20190818_134626(1).jpg)
+![](https://github.com/jess-s/SPAIC-DroneCV/blob/master/images/drone.jpg)
 
 # SPAIC-DroneCV
 How can you use a drone to track objects or people and what would be the use case for this implementation?
