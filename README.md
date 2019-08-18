@@ -4,8 +4,16 @@
 How can you use a drone to track objects or people and what would be the use case for this implementation?
 Throughout the weeks the team of the Drone Tracking study group have researched use cases, implemented tutorials and tried to find information how to integrate federated learning and differential privacy with a drone.
 
+### INSERT ACCOMPLISHMENTS OF TEAM- WHAT WERE WE ABLE TO DO?
+
 ### Use Case
-Object tracking with a drone of a person with epilepsy. The drone will track the person and detect seizures.
+Our team considered many possible use cases for a drone that could follow a target, which are discussed in the wiki page "Use Cases" within this github repo.  Initially, we considered the safety benefits of a drone following a person with a health condition such as epilepsy, dementia, or a serious heart condition as they move through public space.  We also considered the benefits for atheletes to have a drone follow them as they train, possibly recording data about the route, pace, terrain, and performance to develop personalize training programs.  But, ultimately, we decided to focus on the use case of Rescue at Sea because it holds great potential for positive impact.
+
+Our team has unique insight into this dangerous situation... 
+
+### INSERT HELENA BIO OF WORK AT SEA + DESCRIPTION OF ISSUE
+
+During research after selecting this use case, we discovered that it had  been selected as an AI for Social Good Workshop at neurIPS in 2018.  There is a link to the paper on which the workshop was selected in the wiki page "Resources"
 
 ### Team Members
 - Jess (@Jess) - https://github.com/jess-s
@@ -17,5 +25,6 @@ Object tracking with a drone of a person with epilepsy. The drone will track the
 - Shashank Jain (@Shashank Jain) - https://github.com/Shashankjain12
 - Nancy Al Aswad (@Nancy Al Aswad) - https://github.com/nancyalaswad90
 
+### Wiki pages
 
-## Check out the Wiki tab (above) for resources
+Please make sure to read the wiki page (tab above) where we have written articles on key topics for this project and share resources.
