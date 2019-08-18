@@ -27,4 +27,11 @@ During research after selecting this use case, we discovered that it had  been s
 
 ### Wiki pages
 
-Please make sure to read the wiki page (tab above) where we have written articles on key topics for this project and share resources.
+Please make sure to read the wiki page (tab above) where we have written articles and share resources:
+
+    Federated Learning and Drones
+    Links and resources
+    Resources: Object tracking in PyTorch
+    Use Cases
+    Virtual Meetups summary
+    What is Real Time Object Detection? Article by Jess
