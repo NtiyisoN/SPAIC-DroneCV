@@ -24,6 +24,8 @@ We have demonstrated the tracking of people (superheroes) in water through these
 - [Drone tracking a ship and people (superheroes) overboard](https://www.youtube.com/watch?v=TN6UGnpygcQ&feature=youtu.be)
 
 The object tracking is implemented in PyTorch and the code can be found [here](https://github.com/jess-s/SPAIC-DroneCV/tree/master/PyTorch_Objecttracking)
+
+The drone used for the videos is a [Heron Drone](https://www.kjell.com/se/produkter/hem-kontor-fritid/fritid/dronare-quadrocopter/dronare-med-kamera/heron-dronare-med-kamera-p51107?gclid=CjwKCAjw7uPqBRBlEiwAYDsr12AkBzrjregM2xXXO8sEZm3WuRMCH2uPEM7TDnVz154f1I0E8ZwcrRoCKwsQAvD_BwE&gclsrc=aw.ds)
 ***
 During research after selecting this use case, we discovered that it had  been selected as an AI for Social Good Workshop at neurIPS in 2018.  There is a link to the paper on which the workshop was selected in the wiki page "Resources"
 
