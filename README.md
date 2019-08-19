@@ -30,8 +30,7 @@ If ships had rescue drones onboard these could be used in case of man overboard.
 This rescue drone could also be used from shore. It could work as an additional help for life guards along the beaches.
 
 We have demonstrated the tracking of people (superheroes) in water through this YouTube video with real drone footage:
-- [Drone tracking a ship and people (superheroes) overboard](https://youtu.be/MBKmas-Z4_c)
-- (No superheroes were harmed in the making of this video)
+- [Drone tracking a ship and people (superheroes) overboard](https://youtu.be/MBKmas-Z4_c) (no superheroes were harmed in the making of this video)
 
 The object tracking is implemented in PyTorch and the code can be found [here](https://github.com/jess-s/SPAIC-DroneCV/tree/master/PyTorch_Objecttracking)
 
