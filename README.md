@@ -52,9 +52,12 @@ During research after selecting this use case, we discovered that it had  been s
 
 Please make sure to read the wiki page (tab above) where we have written articles and share resources:
 
-    Federated Learning and Drones
+    Article: DRONES, Track athletes outdoor activities and medically resuscitate (Temitope Oladokun)
+    Article: What is Real Time Object Detection? (Jess)
+    Future implementations
     Links and resources
+    Resources: Federated Learning and Drones (Jess)
     Resources: Object tracking in PyTorch
+    Tutorial: Computer Vision with Jetson Nano (Jess)
     Use Cases
-    Virtual Meetups summary
-    What is Real Time Object Detection? Article by Jess
+    Virtual Meetups summary (Helena)
