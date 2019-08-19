@@ -52,7 +52,7 @@ During research after selecting this use case, we discovered that it had  been s
 
 Please make sure to read the wiki page (tab above) where we have written articles and share resources:
 
-    Article: DRONES, Track athletes outdoor activities and medically resuscitate (Temitope Oladokun)
+    Article: Drones- Track athletes outdoor activities and medically resuscitate (Temitope Oladokun)
     Article: What is Real Time Object Detection? (Jess)
     Future implementations
     Links and resources
