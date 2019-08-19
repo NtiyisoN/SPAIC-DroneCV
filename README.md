@@ -29,10 +29,9 @@ When we started working with our DroneCV project we thought of different use cas
 If ships had rescue drones onboard these could be used in case of man overboard. Even a calm day with almost no waves it is very hard to detect someone that has fallen overboard from a ship. If someone fell overboard a rescue drone could be sent out to track that person in the water and function as a beacon for the rescue crew. It could also drop a life west or a float for the person in the water. 
 This rescue drone could also be used from shore. It could work as an additional help for life guards along the beaches.
 
-We have demonstrated the tracking of people (superheroes) in water through these YouTube videos with real drone footage:
-- [Drone tracking a small ship](https://www.youtube.com/watch?v=jDfStGdL60I&feature=youtu.be)
-- [Drone tracking a ship and people (superheroes) overboard](https://www.youtube.com/watch?v=TN6UGnpygcQ&feature=youtu.be)
-- (No superheroes were harmed in the making of these videos)
+We have demonstrated the tracking of people (superheroes) in water through this YouTube video with real drone footage:
+- [Drone tracking a ship and people (superheroes) overboard](https://youtu.be/MBKmas-Z4_c)
+- (No superheroes were harmed in the making of this video)
 
 The object tracking is implemented in PyTorch and the code can be found [here](https://github.com/jess-s/SPAIC-DroneCV/tree/master/PyTorch_Objecttracking)
 
