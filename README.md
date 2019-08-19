@@ -50,14 +50,13 @@ During research after selecting this use case, we discovered that it had  been s
 
 ### Wiki pages
 
-Please make sure to read the wiki page (tab above) where we have written articles and share resources:
-
-    Article: Drones- Track athletes outdoor activities and medically resuscitate (Temitope Oladokun)
-    Article: What is Real Time Object Detection? (Jess)
-    Future implementations
-    Links and resources
-    Resources: Federated Learning and Drones (Jess)
-    Resources: Object tracking in PyTorch
-    Tutorial: Computer Vision with Jetson Nano (Jess)
-    Use Cases
-    Virtual Meetups summary (Helena)
+Please make sure to read the wiki page where we have written articles and shared resources:
+- [Article: Drones- Track athletes outdoor activities and medically resuscitate](https://github.com/jess-s/SPAIC-DroneCV/wiki/Article:-Drones--Track-athletes-outdoor-activities-and-medically-resuscitate-(Temitope-Oladokun))
+- [Article: What is Real Time Object Detection?](https://github.com/jess-s/SPAIC-DroneCV/wiki/Article:-What-is-Real-Time-Object-Detection%3F-(Jess))
+- [Future implementations](https://github.com/jess-s/SPAIC-DroneCV/wiki/Future-implementations)
+- [Links and resources](https://github.com/jess-s/SPAIC-DroneCV/wiki/Links-and-resources)
+- [Resources: Federated Learning and Drones)](https://github.com/jess-s/SPAIC-DroneCV/wiki/Resources:-Federated-Learning-and-Drones-(Jess))
+- [Resources: Object tracking in PyTorch](https://github.com/jess-s/SPAIC-DroneCV/wiki/Resources:-Object-tracking-in-PyTorch-(Helena))
+- [Tutorial: Computer Vision with Jetson Nano](https://github.com/jess-s/SPAIC-DroneCV/wiki/Tutorial:-Computer-Vision-with-Jetson-Nano-(Jess))
+- [Use Cases](https://github.com/jess-s/SPAIC-DroneCV/wiki/Use-Cases)
+- [Virtual Meetups summary](https://github.com/jess-s/SPAIC-DroneCV/wiki/Virtual-Meetups-summary-(Helena))
