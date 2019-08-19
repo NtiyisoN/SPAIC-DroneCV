@@ -42,10 +42,8 @@ During research after selecting this use case, we discovered that it had  been s
 ### Team Members
 - [Jess](https://github.com/jess-s) (@Jess) 
 - [Helena Barmer](https://github.com/helenabarmer) (@Helena Barmer) 
-- [Mahak Bansal](https://github.com/mahakbansal) (@Mahak Bansal) 
 - [Shashi Gharti](https://github.com/shashigharti) (@Shashi Gharti) 
 - [Arunn Thevapalan](https://github.com/arunn-thevapalan) (@Arunn) 
-- [Pinku Deb Nath](https://github.com/prantoran) (@prantoran) 
 - [Shashank Jain](https://github.com/Shashankjain12) (@Shashank Jain) 
 - [Temitope Oladokun](https://github.com/TemitopeOladokun) (@Temitope Oladokun)
 
