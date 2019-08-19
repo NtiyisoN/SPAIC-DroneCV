@@ -36,7 +36,7 @@ The object tracking is implemented in PyTorch and the code can be found [here](h
 
 The drone used for the video is a [Heron Drone](https://www.kjell.com/se/produkter/hem-kontor-fritid/fritid/dronare-quadrocopter/dronare-med-kamera/heron-dronare-med-kamera-p51107?gclid=CjwKCAjw7uPqBRBlEiwAYDsr12AkBzrjregM2xXXO8sEZm3WuRMCH2uPEM7TDnVz154f1I0E8ZwcrRoCKwsQAvD_BwE&gclsrc=aw.ds)
 ***
-During research after selecting this use case, we discovered that it had  been selected as an [AI for Social Good Workshop at neurIPS](https://aiforsocialgood.github.io/2018/pdfs/track2/50_aisg_neurips2018.pdf) in 2018.
+During research after selecting this use case, we discovered that it had  been selected as an [AI for Social Good Workshop at neurIPS](https://aiforsocialgood.github.io/2018/pdfs/track2/50_aisg_neurips2018.pdf) in 2018 which supports the value of this use case.
 
 ### Team Members
 - [Jess](https://github.com/jess-s) (@Jess) 
